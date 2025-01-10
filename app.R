@@ -10,7 +10,7 @@ ui <- fluidPage(
   titlePanel("Round-app: Round Students' marks"),
   tags$div(
     style = "background-color: #FFA500; color: black; padding: 10px; text-align: center; font-weight: bold; font-size: 16px; margin-bottom: 15px;",
-    "Warning: Only upload the variable selection Excel sheets here. DO NOT upload participant data here!"
+    "Warning: For demonstration purposes only. Do not upload any personal (student) data!"
   ),
   # Add a description subpanel
   fluidRow(
