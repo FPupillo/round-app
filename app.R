@@ -8,7 +8,6 @@ source("round_app.R")
 # Define UI for application that draws a histogram
 ui <- fluidPage(
   titlePanel("Round-app: Round Students' marks"),
-  
   # Add a description subpanel
   fluidRow(
     column(12, 
